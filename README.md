@@ -12,9 +12,9 @@ Note finale : 105/100
 
 ## UML
 ### Aperçu
-[![uml](https://github.com/banthony42/nibbler/raw/master/uml/uml_screen.png)](https://github.com/banthony42/nibbler/raw/master/uml/UML.pdf)
+[![uml](https://github.com/VelocityPulse/nibbler/raw/master/uml/uml_screen.png)](https://github.com/VelocityPulse/nibbler/raw/master/uml/UML.pdf)
 
-[link](https://github.com/banthony42/nibbler/uml/UML.pdf?raw=true)
+[link](https://github.com/VelocityPulse/nibbler/blob/master/uml/UML.pdf?raw=true)
 
 ## Installation & Execution 
 Disponible uniquement sur macOS
