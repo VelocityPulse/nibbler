@@ -1,4 +1,4 @@
-# Nibbler - Terminé - VelocityPulse & banthony42
+# Nibbler - Terminé - [VelocityPulse](https://github.com/VelocityPulse) & [banthony42](https://github.com/banthony42)
 
 Note finale : 105/100
 
